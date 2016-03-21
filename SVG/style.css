@@ -1,0 +1,26 @@
+.chart rect {
+    fill: steelblue;
+}
+
+.chart text {
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
+
+text.sentence{
+    fill: black;
+    text-anchor: start;
+}
+
+.chart .agree {
+    fill: green;
+}
+
+.chart .neutral {
+    fill: grey;
+}
+
+.chart .disagree {
+    fill: red;
+}
